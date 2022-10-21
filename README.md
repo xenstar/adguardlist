@@ -1,8 +1,13 @@
 # Adguard Home
 
-My list contains blocking of some common softwares/websites for tracking, and whitelisting for common services which are blocked in below list
+My list contains blocking of some common softwares/websites for tracking, and whitelisting for common services which are blocked in my favourite list. 
 
 You can copy paste this link and directly add in AdguardHome - https://raw.githubusercontent.com/xenstar/adguardlist/main/adguardhome
+
+# Please note!
+
+a) I block adobe.com default domain, and only whitelisted some of their service, e.g behance.net, lightroom so it will work smoothly.
+b) I block most of hotmail.com, microsoft.com domain, only whitelisted for Microsoft To-Do, Calender, Mail etc
 
 # My favourite Adblocking List
 
