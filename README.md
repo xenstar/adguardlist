@@ -2,6 +2,8 @@
 
 My list contains blocking of some common softwares/websites for tracking, and whitelisting for common services which are blocked in below list
 
+You can copy paste this link and directly add in AdguardHome - https://raw.githubusercontent.com/xenstar/adguardlist/main/adguardhome
+
 # My favourite Adblocking List
 
 https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt  
