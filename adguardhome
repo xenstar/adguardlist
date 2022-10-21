@@ -1,3 +1,8 @@
+!Title: Xenstar-AdblockList
+!Version: 22-October-2022
+!Homepage: https://github.com/xenstar/adguardlist
+!!!note! If you are using "AdGuard", please load another list
+!!!This list only applies to "AdGuard Home".
 ||haystackvideo.herokuapp.com^$important
 ||crash-reporting.yy.com^$important
 ||sdkreport.gslb.yy.com^$important
