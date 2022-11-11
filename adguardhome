@@ -1,5 +1,5 @@
 !Title: Xenstar-AdblockList
-!Version: 2-November-2022
+!Version: 11-November-2022
 !Homepage: https://github.com/xenstar/adguardlist
 !!!note! If you are using "AdGuard", please load another list
 !!!This list only applies to "AdGuard Home".
@@ -51,9 +51,8 @@
 ||activate.wip2.adobe.com^$important
 ||activate.wip4.adobe.com^$important
 ||dobe-dns-1.adobe.com^$important
-||adobe-dns-4.a^$important dobe.com
-||techsmith.com^$important
-||activation.cloud.techsmith. ^$important com
+||adobe-dns-4.adobe.com^$important
+||activation.cloud.techsmith.com^$important
 ||oscount.techsmith.com^$important
 ||updater.techsmith.com^$important
 ||camtasiatudi.techsmith.com^$important
@@ -94,37 +93,27 @@
 ||contacts.google.com^$important
 ||hm.baidu.com^$important
 ||shepherd.ff.avast.com^$important
-||mrodevicemgr.officeapps.live.com^$important
-||officeapps.live.com^$important
-||office365.com^$important
 ||appsforoffice.microsoft.com^$important
 ||blobs.officehome.msocdn.com^$important
 ||realtime.services.disqus.com^$important
 ||iobit.com^$important
 ||e.reddit.com^$important
 ||workflow.licenses.adobe.com^$important
-||adobe.com^$important
 ||cloud.acrobat.com^$important
-||adobe.io^$important
 ||identrust.com^$important
-||acrobat.com^$important
-||adobelogin.com^$important
 ||metarouter.io^$important
 ||lltrck.com^$important
 ||hicloud.com^$important
 ||dbankcloud.cn^$important
 ||dbankcloud.com^$important
-||office.com^$important
 ||bignox.com^$important
 ||polldaddy.com^$important
-@@||outlook.live.com^$important
 @@||dcms.1688.com^$important
 @@||match.p4p.1688.com^$important
 @@||widget.1688.com^$important
 @@||email.activtrak.com^$important
 ||aechsmith.com^$important
 ||analytics31.techsmith.com^$important
-||techsmith.com^$important
 @@||r4.res.office365.com^$important
 @@||in.appcenter.ms^$important
 ||tsc-dev.co^$important
@@ -136,7 +125,7 @@
 @@||log.flight.qunar.com^$important
 @@||s.click.aliexpress.com^$important
 @@||www.naifei.shop^$important
-||a1.alicdn.com^$client=192.168.2.221
+||a1.alicdn.com^$
 @@||go.ameyo.com^$important
 ||wxsnsdythumb.wxs.qq.com^$important
 ||wxa.wxs.qq.com^$important
@@ -195,14 +184,13 @@
 @@||footprints-pa.googleapis.com^$important
 ||ftx.us^$important
 ||fun-cc.azurewebsites.net^$important
-@@||fast.appcues.com^$client=192.168.2.164
-@@||support.techsmith.com^$client=192.168.2.164
-@@||page.amap.com^$client=192.168.2.126
-@@||ts.market.mi-img.com^$client=192.168.2.126
-@@||api.zhuti.xiaomi.com^$client=192.168.2.126
-@@||zhuti.xiaomi.com^$client=192.168.2.126
-@@||f8.market.xiaomi.com^$client=192.168.2.126
-@@||t2.a.market.xiaomi.com^$client=192.168.2.126
+@@||fast.appcues.com^$important
+@@||page.amap.com^$important
+@@||ts.market.mi-img.com^$important
+@@||api.zhuti.xiaomi.com^$important
+@@||zhuti.xiaomi.com^$important
+@@||f8.market.xiaomi.com^$important
+@@||t2.a.market.xiaomi.com^$important
 @@||wallpaper.cdn.pandora.xiaomi.com^$important
 ||collector.wdp.brave.com^$important
 ||sentry.oray.com^$important
@@ -256,7 +244,6 @@
 @@||chat.qidian.qq.com^$important
 @@||ap.spotify.com^$important
 ||st.todesk.com^$important
-||www.putulhost.com^$important
 @@||sts.ad.utoronto.ca^$important
 @@||nfapi.sounf.cn^$important
 @@||mcs.snssdk.com^$important
@@ -406,3 +393,8 @@
 ||tracking.epicgames.com^$important
 ||track.sendcloud.org^$important
 ||tongji.kuwo.cn^$important
+@@||cdn-prod-ccv.adobe.com^$important
+||pro.ip-api.com^$important
+@@||h-adashx.ut.taobao.com^$important
+@@||adashx.m.taobao.com^$important
+@@||eco.taobao.com^$important
